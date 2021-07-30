@@ -1,0 +1,12 @@
+.logo{
+    display:flex;
+
+}
+.navbar{
+    display:flex; 
+    justify-content:space-around;
+
+}
+.nav-items{
+    display:inline-block;
+}
