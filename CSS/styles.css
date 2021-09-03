@@ -1,12 +1,38 @@
 .logo{
+    width: 23%;
+    padding: 1%;
     display:flex;
+    text-align: center;
 
 }
 .navbar{
+    width: 73%;
+    padding: 1%;
     display:flex; 
     justify-content:space-around;
 
 }
 .nav-items{
     display:inline-block;
+    vertical-align: top;
+}
+.footer{
+width: 50%;
+margin-left: auto
+}
+.heroImg{
+    height: 600px;
+    padding: 25px;
+}
+.content{
+    width: 500px;
+    margin: 0 auto;
+}
+.footer{
+    background-color: #373738;
+    margin: 0 auto; 
+    margin-top: 200px;
+}
+.inline-block{
+display: inline-block;
 }
